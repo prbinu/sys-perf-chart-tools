@@ -1,4 +1,4 @@
-# system-perf-charts-gen
+# sys-perf-charts-tool
 Scripts to measure and generate graphs for network, memory cpu and
 load-avg of the system.
 
